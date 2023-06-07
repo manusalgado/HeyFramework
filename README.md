@@ -13,4 +13,9 @@ Flexible routing for building single-page applications
 Built-in utilities for common tasks and optimizations
 
 # Installation
-To start using Hey in your project, you can simply include the hey.js file in your HTML or use a package manager like npm or Yarn to install it as a dependency.
+Run a live server
+
+<img width="491" alt="Screen Shot 2023-06-07 at 2 34 39 PM" src="https://github.com/manusalgado/HeyFramework/assets/22861587/3b799648-cfa2-46a5-8de7-aef87f7d1d92">
+<img width="513" alt="Screen Shot 2023-06-07 at 2 34 51 PM" src="https://github.com/manusalgado/HeyFramework/assets/22861587/e3160795-3b91-450f-a698-1eb3c5fea69f">
+
+
